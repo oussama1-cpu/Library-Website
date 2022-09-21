@@ -36,10 +36,11 @@ I used:
     js
     php
  ### example 
-![Alt text](assets/sans.png)
-![Alt text](assets/sans1.png)
 
 
 
+![Sans](https://user-images.githubusercontent.com/79637137/191514600-65e487be-91fc-4851-9daf-1e7e5951a4a8.png)
 
 
+
+![Sans 1](https://user-images.githubusercontent.com/79637137/191514645-850a6a42-5ddb-4007-95c2-8cc5cb4c0951.png)
